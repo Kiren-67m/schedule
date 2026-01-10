@@ -5,8 +5,7 @@ A comprehensive, ready-to-use course schedule management tool. Fully standalone,
 
 ## 🎯 Live Demo
 
-👉 **[Try it now!](https://your-username.github.io/repo-name/)** (Replace with your GitHub Pages URL)
-
+👉 **[Try it now!](https://kiren-67m.github.io/schedule/)** 
 ## ✨ Features
 
 - 📊 **Dashboard** - One-stop overview of today's events and this week's schedule
