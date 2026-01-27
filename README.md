@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/24541009/README.md)
-# 📅 Course Schedule Manager
+# 📅 Course Schedule Manager 
 
 A comprehensive, ready-to-use course schedule management tool. Fully standalone, no server required - works directly in your browser!
 
