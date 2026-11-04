@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24541009/README.md)
 # 📅 Course Schedule Manager 
 
 A comprehensive, ready-to-use course schedule management tool. Fully standalone, no server required - works directly in your browser!
@@ -42,6 +41,10 @@ Simply visit the GitHub Pages URL above - no installation needed!
 - **Pure JavaScript** - No build tools required
 - **localStorage** - Client-side data persistence
 
+## Storage and scope
+
+This is a personal browser tool. Schedule data stays in the current browser's localStorage; there is no account or server-side sync. Keep an ICS export before clearing browser data. The syllabus parser is a text-extraction helper, so review extracted dates before relying on them. Online CDN libraries may require an internet connection.
+
 ## 🌐 Browser Compatibility
 
 - Chrome 90+
@@ -51,7 +54,7 @@ Simply visit the GitHub Pages URL above - no installation needed!
 
 ## 📝 License
 
-[Add your license here - MIT, GPL, etc.]
+[MIT](LICENSE)
 
 ## 🤝 Contributing
 
