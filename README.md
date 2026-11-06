@@ -1,6 +1,6 @@
 # 📅 Course Schedule Manager 
 
-A comprehensive, ready-to-use course schedule management tool. Fully standalone, no server required - works directly in your browser!
+A personal course schedule manager that runs in your browser, with no application server or account required. Interface libraries load from CDNs.
 
 ## 🎯 Live Demo
 
@@ -25,9 +25,9 @@ Simply visit the GitHub Pages URL above - no installation needed!
 
 1. **Download** this repository
 2. **Open** `index.html` in your web browser
-3. That's it! The app runs entirely in your browser
+3. Open it with an internet connection so the CDN libraries can load.
 
-**No server, no installation, no dependencies!**
+No build step or backend installation is required.
 
 ## 📖 Documentation
 
